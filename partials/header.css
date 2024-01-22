@@ -1,0 +1,13 @@
+header {
+  width: 100%;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+i {
+  color: white;
+}/*# sourceMappingURL=header.css.map */
